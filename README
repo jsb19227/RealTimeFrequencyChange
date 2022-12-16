@@ -1,0 +1,3 @@
+This is a real time frequency changing microphone that uses the technique proposed by JEAN LAROCHE and MARK DOLSON
+I implented my own FFT and PeakShifter.
+The Arduino code is for the STM-32 Nucleo 64 board.
